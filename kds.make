@@ -3,7 +3,7 @@ api = 2
 
 ; Drupal Core
 projects[drupal][type] = "core"
-projects[drupal][version] = "7.29"
+projects[drupal][version] = "7.32"
 
 defaults[projects][subdir] = "contrib"
 
@@ -14,12 +14,12 @@ libraries[ckeditor][destination] = libraries
 libraries[ckeditor][directory_name] = ckeditor
 
 ; Drupal Contrib Modules
-projects[bean][version] = "1.7"
-projects[ckeditor][version] = "1.13"
+projects[bean][version] = "1.8"
+projects[ckeditor][version] = "1.16"
 projects[context][version] = "3.1"
-projects[ctools][version] = "1.3"
+projects[ctools][version] = "1.4"
 projects[date][version] = "2.7"
-projects[entity][version] = "1.3"
+projects[entity][version] = "1.5"
 projects[environment_indicator][version] = "2.2"
 projects[jquery_update][version] = "2.3"
 projects[libraries][version] = "2.1"
