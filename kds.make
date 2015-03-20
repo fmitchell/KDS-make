@@ -3,7 +3,7 @@ api = 2
 
 ; Drupal Core
 projects[drupal][type] = "core"
-projects[drupal][version] = "7.32"
+projects[drupal][version] = "7.35"
 
 defaults[projects][subdir] = "contrib"
 
@@ -14,7 +14,7 @@ libraries[ckeditor][destination] = libraries
 libraries[ckeditor][directory_name] = ckeditor
 
 ; Drupal Contrib Modules
-projects[bean][version] = "1.8"
+projects[bean][version] = "1.9"
 projects[ckeditor][version] = "1.16"
 projects[context][version] = "3.1"
 projects[ctools][version] = "1.4"
@@ -32,5 +32,5 @@ projects[media][patch][] = "http://drupal.org/files/media-browser-pagination-210
 projects[pathauto][version] = "1.2"
 projects[references][version] = "2.1"
 projects[state_machine][version] = "2.2"
-projects[token][version] = "1.5"
+projects[token][version] = "1.6"
 projects[video_embed_field][version] = "2.0-beta7"
